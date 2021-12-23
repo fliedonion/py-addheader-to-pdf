@@ -1,0 +1,5 @@
+# this requirements.txt for create venv to run the sample batches.
+
+Pillow==8.4.0
+PyPDF2==1.26.0
+reportlab==3.6.2
